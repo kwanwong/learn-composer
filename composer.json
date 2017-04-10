@@ -1,0 +1,10 @@
+{
+  "autoload" :{
+    "psr-4": {
+      "FS\\": "FS/"
+    }
+  },
+  "require" :{
+    "mustache/mustache":"~2.9.0"
+  }
+}
